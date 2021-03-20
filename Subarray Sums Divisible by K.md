@@ -4,7 +4,7 @@
 
 https://leetcode.com/problems/subarray-sums-divisible-by-k/
 
-Basic Idea:
+Basic Idea: The basic Idea is to use prefix sum and a hash table to solve this puzzle.  
 
 
 
