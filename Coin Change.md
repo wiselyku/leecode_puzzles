@@ -5,7 +5,7 @@
 
 https://leetcode.com/problems/coin-change/
 
-Basic Idea:
+Basic Idea: The idea is to use Dynamic Programming algorithm to store a table that records the minimum number of coins of each value from 1 to amount. 
 
 
 
